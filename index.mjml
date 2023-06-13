@@ -1,0 +1,176 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Oswald" href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&family=Oswald:wght@200&display=swap" />
+    <mj-attributes>
+      <mj-all font-size="16px" />
+      <mj-all font-family="Oswald, Helvetica Neue, Arial" letter-spacing="2px" line-height="20px" padding="0px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <mj-wrapper background-url="img/texture-bg.jpg" background-repeat="no-repeat" padding-bottom="40px">
+
+      <mj-section>
+        <mj-column>
+          <mj-text align="right" padding-right="20px" padding-top="10px">
+            <a href="#" style="color: #ffffff; font-size: 12px">View in browser</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      // main header
+      <mj-section>
+        <mj-column>
+          <mj-image src="img/yourlogoblack.png" alt="logo" width="120px" padding-top="25px" padding-bottom="25px" />
+          <mj-text align="center" letter-spacing="5px" font-weight="bold" font-size="18px" padding-bottom="10px">
+            PRIDE MONTH
+          </mj-text>
+          <mj-text align="center" font-size="82px" font-weight="bold" line-height="80px" padding-bottom="10px">
+            <span style="color: #ffffff;">DON'T MISS OUR NEXT</span> PODCAST
+          </mj-text>
+          <mj-text align="center" padding-bottom="20px" font-weight="bold" padding-left="100px" padding-right="100px">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit diam leo.
+          </mj-text>
+          <mj-button href="#" height="30px" padding-bottom="10px" font-weight="bold" background-color="#191d33">
+            REGISTER NOW
+          </mj-button>
+          <mj-image src="img/pride-3.png" width="450px" alt="background image of a man and woman" fluid-on-mobile="true" />
+        </mj-column>
+      </mj-section>
+
+      // information
+      <mj-section background-color="#ffffff" padding-top="40px" padding-bottom="25px">
+        <mj-column padding-left="20px" padding-right="20px" padding-top="10px">
+          <mj-image src="img/pexels-anna-shvets-4557464.jpg" alt="image 1" fluid-on-mobile="true">
+        </mj-column>
+
+        <mj-column padding-left="20px" padding-right="20px" padding-top="0px">
+          <mj-text font-size="20px" font-weight="bold" padding-bottom="10px" line-height="30px">
+            INFORMATION ABOUT PRIDE
+          </mj-text>
+          <mj-text>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit diam leo. Maecenas varius turpis in magna lobortis, in interdum urna luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      // 3 column
+      <mj-section background-color="#ffffff" padding-top="25px" padding-bottom="25px">
+        <mj-column padding-left="20px" padding-right="20px" padding-top="0px" padding-bottom="25px">
+          <mj-image src="img/pexels-anna-shvets-4557464.jpg" alt="image 1" fluid-on-mobile="true" />
+          <mj-text font-size="20px" align="center" font-weight="bold" padding-bottom="10px" padding-top="0px" line-height="30px">
+            PODCAST LOREM
+          </mj-text>
+          <mj-text align="center" padding-bottom="10px">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit diam leo.
+          </mj-text>
+          <mj-image src="img/sound-podcast2.png" alt="sound wave" align="center" padding-bottom="20px" width="120px" />
+          <mj-button href="#" height="30px" padding-bottom="0px" font-weight="bold" background-color="#191d33">
+            LISTEN NOW
+          </mj-button>
+        </mj-column>
+
+        <mj-column padding-left="20px" padding-right="20px" padding-top="0px" padding-bottom="25px">
+          <mj-image src="img/pexels-anna-shvets-4557464.jpg" alt="image 1" fluid-on-mobile="true" />
+          <mj-text font-size="20px" align="center" font-weight="bold" padding-bottom="10px" padding-top="0px" line-height="30px">
+            PODCAST LOREM
+          </mj-text>
+          <mj-text align="center" padding-bottom="10px">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit diam leo.
+          </mj-text>
+          <mj-image src="img/sound-podcast2.png" alt="sound wave" align="center" padding-bottom="20px" width="120px" />
+          <mj-button href="#" height="30px" padding-bottom="0px" font-weight="bold" background-color="#191d33">
+            LISTEN NOW
+          </mj-button>
+        </mj-column>
+
+        <mj-column padding-left="20px" padding-right="20px" padding-top="0px" padding-bottom="0px">
+          <mj-image src="img/pexels-anna-shvets-4557464.jpg" alt="image 1" fluid-on-mobile="true" />
+          <mj-text font-size="20px" align="center" font-weight="bold" padding-bottom="10px" padding-top="0px" line-height="30px">
+            PODCAST LOREM
+          </mj-text>
+          <mj-text align="center" padding-bottom="10px">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit diam leo.
+          </mj-text>
+          <mj-image src="img/sound-podcast2.png" alt="sound wave" align="center" padding-bottom="20px" width="120px" />
+          <mj-button href="#" height="30px" padding-bottom="10px" font-weight="bold" background-color="#191d33">
+            LISTEN NOW
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      // cta
+      <mj-section background-color="#94d0d0" padding-top="50px" padding-bottom="50px" padding-left="20px" padding-right="20px">
+        <mj-column>
+          <mj-text font-weight="bold" align="center" color="#ffffff" padding-bottom="10px">
+            JUNE 28 · 18:00 HOURS
+          </mj-text>
+          <mj-text font-size="40px" color="#191d33" font-weight="bold" align="center" padding-bottom="20px" line-height="40px">
+            HOW DO I REGISTER?
+          </mj-text>
+          <mj-text align="center" padding-bottom="20px">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit diam leo. Maecenas varius turpis in magna lobortis, in interdum urna luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at justo ut nisi semper mattis ac facilisis sapien.
+          </mj-text>
+          <mj-button href="#" height="30px" padding-bottom="0px" font-weight="bold" background-color="#191d33">
+            SIGN UP NOW
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      // footer
+      <mj-section background-url="img/footer-bg.png" padding-top="5px" padding-bottom="25px" padding-left="20px" padding-right="20px">
+        <mj-column width="50%">
+          <mj-image src="img/yourlogoblack.png" padding-top="20px" alt="logo" width="120px" align="left" />
+          <mj-text color="#ffffff" padding-bottom="10px" font-weight="bold" padding-top="20px">
+            ABOUT US
+          </mj-text>
+          <mj-text>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu sagittis felis.
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="25%">
+          <mj-text color="#ffffff" padding-bottom="10px" font-weight="bold" padding-top="20px">
+            LINKS
+          </mj-text>
+          <mj-text padding-bottom="5px">
+            <a href="#" style="text-decoration: none; color: #000000;">Blog</a>
+          </mj-text>
+          <mj-text padding-bottom="5px">
+            <a href="#" style="text-decoration: none; color: #000000;">About Us</a>
+          </mj-text>
+          <mj-text padding-bottom="5px">
+            <a href="#" style="text-decoration: none; color: #000000;">Services</a>
+          </mj-text>
+          <mj-text padding-bottom="5px">
+            <a href="#" style="text-decoration: none; color: #000000;">Unsubscribe</a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="25%" >
+          <mj-text color="#ffffff" padding-bottom="10px" font-weight="bold" padding-top="20px">
+            CONTACT
+          </mj-text>
+          <mj-text padding-bottom="5px">
+            <a href="#" style="text-decoration: none; color: #000000;">info@company.com</a>
+          </mj-text>
+          <mj-text padding-bottom="5px">
+            <a href="#" style="text-decoration: none; color: #000000;">Help Center</a>
+          </mj-text>
+          <mj-social align="left">
+            <mj-social-element padding="5px" name="facebook">
+            </mj-social-element>
+            <mj-social-element padding="5px" name="twitter">
+            </mj-social-element>
+            <mj-social-element padding="5px" name="linkedin">
+            </mj-social-element>
+            <mj-social-element padding="5px"name="instagram">
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>
